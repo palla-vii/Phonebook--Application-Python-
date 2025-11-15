@@ -5,31 +5,31 @@ A simple and user-friendly **Phonebook Application** built using **Python** and 
 
 ## 🚀 Features
 
-### Add New Contact
+### -Add New Contact
 
 Create a new contact by entering a name and phone number.
 
-### Update Contact
+### -Update Contact
 
 Modify the phone number of an existing contact.
 
-### Delete Contact
+### -Delete Contact
 
 Remove any contact from the phonebook.
 
-### Search Contact (Exact + Partial Search)
+### -Search Contact (Exact + Partial Search)
 
 Search for a name or even a part of a name (e.g., typing “an” shows *Ananya*, *Rohan*, etc.).
 
-### View All Contacts
+### -View All Contacts
 
 Displays all contacts in a sorted table (A → Z).
 
-### Auto Save & Load
+### -Auto Save & Load
 
 Contacts are automatically saved in `phonebook.json` and loaded at start.
 
-### Clean Tkinter GUI
+### -Clean Tkinter GUI
 
 User-friendly interface with text inputs, buttons, and a scrollable table using `ttk.Treeview`.
 
